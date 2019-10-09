@@ -64,4 +64,4 @@ A charter should cover all of the following topics:
 - Future meetings are likely to be recorded.
 
 ### Resources
-- [Meeting notes](https://tinyurl.com/yy5dkdyg) are publically available.
+- [Meeting notes](https://tinyurl.com/yy5dkdyg) are publicly available.

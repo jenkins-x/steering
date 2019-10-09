@@ -55,3 +55,13 @@ A charter should cover all of the following topics:
  * Organize the transition to an elected steering committee so that not all members change out at once
   * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
  * Provide documentation to enable the established practices of the committee to continue 
+ 
+ ## Meetings
+
+### Schedule and Cadence
+- Agreed cadence is to hold one meeting per month.
+- First meeting, on 4 October, 2019, was a closed meeting; however, meeting notes are available. 
+- Future meetings are likely to be recorded.
+
+### Resources
+- [Meeting notes](https://tinyurl.com/yy5dkdyg) are publically available.

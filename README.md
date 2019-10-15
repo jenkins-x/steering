@@ -63,5 +63,5 @@ A charter should cover all of the following topics:
 - First meeting, on 4 October, 2019, was a closed meeting; however, meeting notes are available. 
 - Future meetings are likely to be recorded.
 
-### Resources
-- [Meeting notes](https://tinyurl.com/yy5dkdyg) are publicly available.
+
+- [Meeting agendas and minutes](https://tinyurl.com/yy5dkdyg)

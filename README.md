@@ -64,4 +64,4 @@ A charter should cover all of the following topics:
 - Future meetings are likely to be recorded.
 
 
-- [Meeting agendas and minutes](https://tinyurl.com/yy5dkdyg)
+- [Meeting agendas and minutes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit?usp=sharing)

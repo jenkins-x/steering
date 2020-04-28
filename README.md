@@ -60,8 +60,5 @@ A charter should cover all of the following topics:
 
 ### Schedule and Cadence
 - Agreed cadence is to hold one meeting per month.
-- First meeting, on 4 October, 2019, was a closed meeting; however, meeting notes are available. 
-- Future meetings are likely to be recorded.
-
 
 - [Meeting agendas and minutes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit?usp=sharing)

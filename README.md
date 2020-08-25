@@ -1,7 +1,7 @@
 # Steering Committee
 
 ## Moving 🏠 : New home at jx-community/committee-steering
-This repo is moving. Check out its new home at [jx-community/committee-steering](https://github.com/jenkins-x/jx-community/tree/master/committee-steering) 
+Check out our new home at [jx-community/committee-steering](https://github.com/jenkins-x/jx-community/tree/master/committee-steering) 
 
 ## Initial Bootstrap Committee
 
